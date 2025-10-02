@@ -1,8 +1,7 @@
 # AGAPE
-The first Artificial Intelligence workflow for G-quadruplex binding affinity prediction.
+
 AGAPE (computational G-quadruplex Affinity Prediction) is a novel machine learning (ML)-based tool designed to predict the binding and stabilizing potential of small molecules targeting G-quadruplexes (G4s). 
-G4s, prevalent in telomeres and oncogene promoters, are promising therapeutic targets, but designing selective binders remains challenging. Building upon a curated dataset of 1217 compounds labelled through Förster Resonance Energy Transfer (FRET) melting assays, AGAPE integrates 5666 molecular descriptors, both classical and quantum chemical. 
-It captures features relevant to G4 recognition, driving researcher to predict the potential G4 stabilization of small molecules, including both organic ligands and metal complexes. 
+
 Among the trained ML models, XGBoost achieved the best performance with an accuracy of nearly 91%, using 489 selected features. 
 SHAP analysis highlighted descriptors related to molecular topology, polarizability, and electrostatic potential as key contributors to the classification. 
-AGAPE is deployed through a user-friendly web interface supporting batch prediction and secure data handling and provides a robust and interpretable tool to accelerate the discovery of G4-stabilizing compounds, integrating quantum chemical information within an ML-driven cheminformatics framework.
+
