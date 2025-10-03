@@ -8,3 +8,7 @@ Different machine learning algorithms were used, like Mutual Information, ANOVA,
 ## SHAP Analysis
 SHAP analysis highlighted descriptors related to molecular topology, polarizability, and electrostatic potential as key contributors to the classification. 
 Specifically, a violin plot was used to show the top ten most relevant features.
+
+### Paper
+For more information, read our paper.
+
