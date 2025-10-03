@@ -10,5 +10,5 @@ SHAP analysis highlighted descriptors related to molecular topology, polarizabil
 Specifically, a violin plot was used to show the top ten most relevant features.
 
 ### Paper
-For more information, read our paper.
+For more information, read our paper: http.......
 
